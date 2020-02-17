@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Veg Soup",
+        "orders": 200
+    },
+    {
+        "name": "Veg Curry",
+        "orders": 600
+    },
+    {
+        "name": "Veg Pasta",
+        "orders": 300
+    },
+    {
+        "name": "Veg Surprise",
+        "orders": 900
+    }
+]
